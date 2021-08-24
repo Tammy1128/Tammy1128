@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tammy1128
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning SQL, targets workflow.
 - 📫 How to reach me: zoezhang0408@gmail.com
 
 <!---
